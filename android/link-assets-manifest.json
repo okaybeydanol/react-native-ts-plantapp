@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Rubik-ExtraBold.ttf",
+      "sha1": "1647fe9245b610f1b5ac101a3234cc3d8f6051b9"
+    },
+    {
+      "path": "assets/fonts/Rubik-Light.ttf",
+      "sha1": "2bc14068c355425f472f6a97b69c5c468bc863a3"
+    },
+    {
+      "path": "assets/fonts/Rubik-Medium.ttf",
+      "sha1": "7b93e52dc59bc6eb3b374b860c203cbe726c3c31"
+    },
+    {
+      "path": "assets/fonts/Rubik-Regular.ttf",
+      "sha1": "9d7091d63f35c9d28518b06566442a02b306980a"
+    },
+    {
+      "path": "assets/fonts/Rubik-SemiBold.ttf",
+      "sha1": "01a4b4fee8dbf9802ccb6256fdf53b3a86f2fcec"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Text-Bold.otf",
+      "sha1": "b27d8c428b282fbfd3d40362f4e3ef60afb95ebf"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Text-Regular.otf",
+      "sha1": "85b4043974a2a3be5afbcc9ea2becab072d2cd8f"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Text-Semibold.otf",
+      "sha1": "d8c839390af4265e252fe445b06428c5baeec70d"
+    },
+    {
+      "path": "assets/fonts/VisbyCF-ExtraBold.ttf",
+      "sha1": "1ba6cde9c23bd679bd03d56a1ac0a1d2998f3c0e"
+    }
+  ]
+}
